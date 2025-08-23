@@ -23,4 +23,3 @@ HTML5 – Semantic structure.
 
 CSS3 – Flexbox & Grid for layout, animations for smooth UI.
 
-JavaScript (Vanilla/ES6) – DOM manipulation, dynamic cart, search filter.
